@@ -1,7 +1,4 @@
-<div id="header" align="center">
-  <img src="https://elements-resized.envatousercontent.com/elements-cover-images/89b3decf-475e-4aac-998e-bfdef27f4c6c?w=1370&cf_fit=scale-down&q=85&format=auto&s=7b4aae118ca4e96d6a01a1914a2884bdfc0b9b1b8f2e36d433e11ce0fbb42ed2" width="200"/>
-</div>
-<img id="profile" src="https://komarev.com/ghpvc/?username=ArfiNouva&style=flat-square&color=blue" alt=""/>
+
 
 ## Hi there 👋
 My name Is Mochamad Arfi Nouvama (Which is why my Github name Is ArfiNouva), I'm new to github. :D
