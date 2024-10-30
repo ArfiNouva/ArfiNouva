@@ -1,11 +1,11 @@
 
 
 ## Hi there 👋
-My name Is Mochamad Arfi Nouvama (Which is why my Github name Is ArfiNouva), I'm new to github. :D
-🔭 I’m currently working on PT. Fattah Tekno Digital as QA Engineer, Pentester (Soon) and also an Frontend Engineer (In Progress)
-🌱 I’m currently learning in PHP and Kotlin!
- ♂️  Pronouns: Arfi, Nouva, Fi, Him/He
-⚡ Fun fact: I like playing FPS, RPG and Moba Games, but not that much hehe 😜, Sometimes I like to improve my coding skills with learning My Main Language Deeper or Learn a new Language! Oh, And Also I would love to be a Real Programmer Soon! but i have to work hard by reaching new title first that started as a Fullstack Developer. 🤩
+My name Is Mochamad Arfi Nouvama (Which is why my Github name Is ArfiNouva), I'm new to github. :D <br>
+🔭 I’m currently working on PT. Fattah Tekno Digital as QA Engineer, Pentester (Soon) and also an Frontend Engineer (In Progress) <br>
+🌱 I’m currently learning in PHP and Kotlin! <br>
+ ♂️  Pronouns: Arfi, Nouva, Fi, Him/He <br>
+⚡ Fun fact: I like playing FPS, RPG and Moba Games, but not that much hehe 😜, Sometimes I like to improve my coding skills with learning My Main Language Deeper or Learn a new Language! Oh, And Also I would love to be a Real Programmer Soon! but i have to work hard by reaching new title first that started as a Fullstack Developer. 🤩 <br>
 It is Nice To Know You Guys! ⭐
 
 ---
